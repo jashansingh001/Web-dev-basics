@@ -8,13 +8,13 @@ As a computer science enthusiast and aspiring web developer, I've created these 
 
 ## Table of Contents
 
-- [HTML: The Building Blocks of the Web](./HTML/index.html)
+- [HTML: The Building Blocks of the Web](./index.html)
   - An in-depth guide to HTML, the language used to structure web content.
 
-- [CSS: Styling the Web](./CSS/index.css)
+- [CSS: Styling the Web](./index.css)
   - Learn how to style your web pages with CSS, including selectors, properties, and layout techniques.
 
-- [JavaScript: Making the Web Dynamic](./JavaScript/index.js)
+- [JavaScript: Making the Web Dynamic](./index.js)
   - Explore the world of JavaScript, from basic syntax to advanced topics like DOM manipulation and asynchronous programming.
 
 ## How to Use This Repository
