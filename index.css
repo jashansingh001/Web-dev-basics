@@ -1,0 +1,41 @@
+/* simple CSS rule  */
+
+selector {
+    property: value;
+}
+
+
+/* Example */
+
+p {
+    color: blue;
+}
+
+
+/* Selectors */
+
+.button {
+    background-color: green;
+}
+
+
+/* ID Selectors */
+
+#header {
+    font-size: 24px;
+}
+
+
+/* Attribute Selectors */
+
+input[type="text"] {
+    border: 1px solid #ccc;
+}
+
+
+
+/* Pseudo Class Selector */
+
+a:hover {
+    color: red;
+}
